@@ -15,7 +15,7 @@ Frontend <https://ekaterinale.nomoredomainsrocks.ru>
 Backend <https://api.ekaterinale.nomoredomainsrocks.ru>  
   
   
-Реализовано:  
+## Реализовано:  
 * Возможность редактирования и смена фотографии профиля  
 * Возможность добавления на страницу карточки с фотографией  
 * Открытие и удаление карточки с фотографией  
