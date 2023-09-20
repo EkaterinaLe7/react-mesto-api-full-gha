@@ -1,4 +1,4 @@
-export const BASE_URL = "http://api.ekaterinale.nomoredomainsrocks.ru";
+export const BASE_URL = "https://api.ekaterinale.nomoredomainsrocks.ru";
 
 const getResponse = (res) => {
   if (res.ok) {
