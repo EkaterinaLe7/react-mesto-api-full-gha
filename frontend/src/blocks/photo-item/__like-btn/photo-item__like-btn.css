@@ -1,0 +1,17 @@
+.photo-item__like-btn {
+  width: 22px;
+  height: 19px;
+  background-image: url(../../../images/heart.svg);
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  transition: opacity .2s linear;
+}
+
+.photo-item__like-btn:hover {
+  opacity: .5;
+}

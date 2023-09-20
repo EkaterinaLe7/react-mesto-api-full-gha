@@ -1,20 +1,9 @@
-# Проект: Mesto (backend + frontend)
+# Проект: Mesto  
 
 Сервис Mesto представляет собой интерактивную страницу, где Вы можете делиться своими фотографиями.  
 
-В данном репозитории представлена версия проекта Mesto, вклучающая фронтенд и бэкенд.  
-  
-## [Ссылка на репозиторий ](https://github.com/EkaterinaLe7/react-mesto-api-full-gha) 
-  
-## Ссылки на проект  
-  
-IP-адрес: 158.160.68.54  
-  
-Frontend: (https://ekaterinale.nomoredomainsrocks.ru)  
-  
-Backend: (api.ekaterinale.nomoredomainsrocks.ru)  
-  
-  
+В данном репозитории представлена версия проекта Mesto: регистрация и авторизация, написанного на «Реакт».  
+
 Реализовано:  
 * Возможность редактирования и смена фотографии профиля  
 * Возможность добавления на страницу карточки с фотографией  
@@ -24,8 +13,7 @@ Backend: (api.ekaterinale.nomoredomainsrocks.ru)
 * Навигация по сайту
   
   
-При создании были использованы: 
-## Frontend   
+При создании были использованы:  
 * JSX
 * Функциональные компоненты
 * CRA (Create React App)
@@ -33,9 +21,8 @@ Backend: (api.ekaterinale.nomoredomainsrocks.ru)
 * Глобальный стейт, созданный через контекст (React Context )  
 * Прямой доступ к DOM-элементам через хук useRef  
 * React Router  
-  
-## Backend  
-* NodeJS
-* Express
-* MongoDB
-* Mongoose
+ 
+   
+Контактная информация:  
+Екатeрина Лечицкая  
+e-mail: bobcat7@live.ru  

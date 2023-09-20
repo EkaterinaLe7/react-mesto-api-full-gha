@@ -1,0 +1,28 @@
+.page__item-centered {
+  max-width: 880px;
+  margin: 0 auto;
+}
+
+@media screen and (max-width: 1076px) {
+  .page__item-centered {
+    width: calc(100% - 98px*2);
+  }
+}
+
+@media screen and (max-width: 1000px) {
+  .page__item-centered {
+    width: calc(100% - 70px*2);
+  }
+}
+
+@media screen and (max-width: 750px) {
+  .page__item-centered {
+    width: calc(100% - 35px*2);
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .page__item-centered {
+    width: 100%;
+  }
+}
