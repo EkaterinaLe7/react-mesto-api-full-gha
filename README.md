@@ -2,17 +2,17 @@
 
 Сервис Mesto представляет собой интерактивную страницу, где Вы можете делиться своими фотографиями.  
 
-В данном репозитории представлена версия проекта Mesto, вклучающая фронтенд и бэкенд.  
+В данном репозитории представлена версия проекта Mesto, включающая фронтенд и бэкенд.  
   
 ## [Ссылка на репозиторий ](https://github.com/EkaterinaLe7/react-mesto-api-full-gha) 
   
 ## Ссылки на проект  
   
-IP-адрес: <158.160.68.54>  
+IP 158.160.68.54  
   
-Frontend: <https://ekaterinale.nomoredomainsrocks.ru>  
+Frontend <https://ekaterinale.nomoredomainsrocks.ru>  
   
-Backend: <https://api.ekaterinale.nomoredomainsrocks.ru>  
+Backend <https://api.ekaterinale.nomoredomainsrocks.ru>  
   
   
 Реализовано:  
