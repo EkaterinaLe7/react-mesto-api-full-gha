@@ -10,7 +10,7 @@
   
 IP-адрес: <158.160.68.54>  
   
-Frontend: (https://ekaterinale.nomoredomainsrocks.ru)  
+Frontend: <https://ekaterinale.nomoredomainsrocks.ru>  
   
 Backend: <https://api.ekaterinale.nomoredomainsrocks.ru>  
   
