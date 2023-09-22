@@ -68,7 +68,7 @@ function App() {
       api
         .getAppInfo()
         .then(([cardsArray, userData]) => {
-          setCards(cardsArray);
+          setCards(cardsArray.reverse());
           setCurrentUser(userData);
         })
         .catch(console.error);
@@ -181,14 +181,9 @@ function App() {
     return auth
       .authorize(email, password)
       .then((data) => {
-        if (data.token) {
-          localStorage.setItem("token", data.token);
-          setLoggedIn(true);
-
-          setEmail(email);
-
-          navigate("/", { replace: true });
-        }
+        setLoggedIn(true);
+        setEmail(email);
+        navigate("/", { replace: true });
       })
       .catch((err) => {
         console.log(err);
